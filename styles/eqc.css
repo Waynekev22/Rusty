@@ -1,0 +1,12 @@
+body {
+    padding-top: 90px;
+}
+.paragraph-one {
+    width: 500px;
+    line-height: 25px;
+    font-size: 16px;
+}
+
+.first-image {
+    width: 300px;
+}
