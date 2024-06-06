@@ -1,0 +1,29 @@
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+
+.thumbnail-one {
+    margin-bottom: 10px;
+    width: 100%;
+    overflow-clip-margin: content-box;
+}
+
+.description {
+    margin-bottom: 10px;
+}
+
+.video-author {
+    margin-bottom: 5px;
+}
+
+.video-preview {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.main-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
